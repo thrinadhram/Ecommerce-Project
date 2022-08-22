@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+
+			<class name="AutomationPractice.LoginAutomation" />
+			<class name="heroKaupp123.Class1" />
+			<class name="heroKaupp123.Login" />
+			<class name="heroKaupp123.LoginLocaters" />
+			<class name="heroKaupp123.Methods" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

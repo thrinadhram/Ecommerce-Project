@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T16:12:19 IST" name="Suite" finished-at="2022-08-22T16:21:20 IST" duration-ms="540977">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T16:12:19 IST" name="Test" finished-at="2022-08-22T16:21:20 IST" duration-ms="540977">
+      <class name="heroKaupp123.Class1">
+        <test-method signature="browser()[pri:0, instance:heroKaupp123.Class1@47faa49c]" started-at="2022-08-22T16:14:50 IST" name="browser" finished-at="2022-08-22T16:15:07 IST" duration-ms="16999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+      </class> <!-- heroKaupp123.Class1 -->
+      <class name="AutomationPractice.LoginAutomation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AutomationPractice.LoginAutomation@383bfa16]" started-at="2022-08-22T16:12:41 IST" name="setUp" finished-at="2022-08-22T16:13:03 IST" duration-ms="22352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logintest()[pri:1, instance:AutomationPractice.LoginAutomation@383bfa16]" started-at="2022-08-22T16:13:03 IST" name="logintest" finished-at="2022-08-22T16:13:13 IST" duration-ms="9821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="shopping()[pri:2, instance:AutomationPractice.LoginAutomation@383bfa16]" started-at="2022-08-22T16:13:13 IST" name="shopping" finished-at="2022-08-22T16:13:19 IST" duration-ms="6406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopping -->
+        <test-method signature="addtocart()[pri:3, instance:AutomationPractice.LoginAutomation@383bfa16]" started-at="2022-08-22T16:13:19 IST" name="addtocart" finished-at="2022-08-22T16:13:39 IST" duration-ms="19615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method signature="addtocart2()[pri:4, instance:AutomationPractice.LoginAutomation@383bfa16]" started-at="2022-08-22T16:13:39 IST" name="addtocart2" finished-at="2022-08-22T16:13:39 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart2 -->
+        <test-method signature="checkout()[pri:5, instance:AutomationPractice.LoginAutomation@383bfa16]" started-at="2022-08-22T16:13:39 IST" name="checkout" finished-at="2022-08-22T16:14:50 IST" duration-ms="70284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+      </class> <!-- AutomationPractice.LoginAutomation -->
+      <class name="heroKaupp123.Login">
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:heroKaupp123.Login@614ca7df]" started-at="2022-08-22T16:12:19 IST" name="launchUrl" finished-at="2022-08-22T16:12:41 IST" duration-ms="21360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="login()[pri:1, instance:heroKaupp123.Login@614ca7df]" started-at="2022-08-22T16:15:07 IST" name="login" finished-at="2022-08-22T16:15:14 IST" duration-ms="7324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:2, instance:heroKaupp123.Login@614ca7df]" started-at="2022-08-22T16:15:14 IST" name="logout" finished-at="2022-08-22T16:15:15 IST" duration-ms="920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="checkLinks()[pri:3, instance:heroKaupp123.Login@614ca7df]" started-at="2022-08-22T16:15:15 IST" name="checkLinks" finished-at="2022-08-22T16:21:20 IST" duration-ms="365654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+      </class> <!-- heroKaupp123.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
